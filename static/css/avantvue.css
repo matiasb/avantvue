@@ -1,0 +1,11 @@
+#ipreview {
+    margin: 0;
+    padding: 0;
+    border: none;
+    width: 100%;
+}
+
+#editor{
+    width: 455px;
+    border-bottom: 1px solid #D4D4D4;
+}
